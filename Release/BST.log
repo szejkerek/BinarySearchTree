@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+BinarySearchTree.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: __thiscall BST<int>::~BST<int>(void)" (??1?$BST@H@@QAE@XZ)
+D:\OneDrive - Politechnika Śląska\STUDIA\SEM3\PK\Laboratoria - Git\a6c17ea2-gr04-repo\Projekt\BST\BST\Release\BST.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
