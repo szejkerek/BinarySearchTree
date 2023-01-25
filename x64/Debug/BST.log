@@ -1,1 +1,4 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(436,5): error MSB8020: Nie można odnaleźć narzędzi kompilacji dla Visual Studio 2019 (zestaw narzędzi platformy = „v142”). Aby wykonać kompilację przy użyciu narzędzi kompilacji v142, zainstaluj narzędzia kompilacji Visual Studio 2019. Możesz też wykonać aktualizację do najnowszych narzędzi programu Visual Studio, wybierając menu Projekt lub klikając prawym przyciskiem myszy rozwiązanie, a następnie wybierając polecenie „Wskaż ponownie rozwiązanie...”.
+﻿  BinarySearchTree.cpp
+  P_info.cpp
+  Generating Code...
+  BST.vcxproj -> C:\Users\Bartek\Desktop\BinarySearchTree\x64\Debug\BST.exe
